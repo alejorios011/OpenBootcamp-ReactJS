@@ -2,11 +2,11 @@
 Repositorio con diferentes proyectos según los talleres solicitados en el curso de OpenBootcamp de ReactJS.
 
 ## Table of Contents
-1. [General Info](#general-info)
-2. [Technologies](#technologies)
-3. [Installation](#installation)
+1. [Ejercicios](#ejercicios)
+2. [Tecnologias](#tecnologias)
+3. [Instalacion](#instalacion)
 
-## General Info
+## Ejercicios
 Aqui agregare la descripcion de lo que se solicitaba en cada taller.
 
 ### Taller 1
@@ -32,12 +32,17 @@ Renderizado de componentes en la solución:
 
 Recordatorio: Haz uso de Proptypes adecuadamente
 
-## Technologies
+### Taller 2
+Partiendo del siguiente componente de clase que contempla varios métodos de ciclo de vida, convertidlo en un componente funcional que realice exactamente lo mismo:
+
+**** NOTA: Realice este ejercicio en el mismo taller 1, en la ruta src/hooks/clock.jsx, ahi esta también el componente de clase que se debia cambiar.
+
+## Tecnologias
 Lista de tecnologias utilizadas dentro del proyecto:
 * [Node](https://nodejs.org/en): Version 18.16.0 LTS
 * [NPM](https://example.com): Version 9.5.1
 * [React JS](https://legacy.reactjs.org/docs/getting-started.html): Version 18.2.0 
-## Installation
+## Instalacion
 Para utilizar el proyecto. 
 ```
 $ git clone https://example.com
