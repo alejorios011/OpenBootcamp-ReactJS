@@ -50,6 +50,8 @@ Lista de tecnologias utilizadas dentro del proyecto:
 * [Node](https://nodejs.org/en): Version 18.16.0 LTS
 * [NPM](https://example.com): Version 9.5.1
 * [React JS](https://legacy.reactjs.org/docs/getting-started.html): Version 18.2.0 
+* [Bootstrap](https://getbootstrap.com/): 5.2.3
+* [Bootstrap-icons](https://icons.getbootstrap.com/): 1.10.4
 ## Instalacion
 Para utilizar el proyecto. 
 ```
