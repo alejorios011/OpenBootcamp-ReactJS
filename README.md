@@ -35,7 +35,15 @@ Recordatorio: Haz uso de Proptypes adecuadamente
 ### Taller 2
 Partiendo del siguiente componente de clase que contempla varios métodos de ciclo de vida, convertidlo en un componente funcional que realice exactamente lo mismo:
 
-**** NOTA: Realice este ejercicio en el mismo taller 1, en la ruta src/hooks/clock.jsx, ahi esta también el componente de clase que se debia cambiar.
+**** NOTA: El componente de clase del que se habla esta en el mismo componente de función en la ruta src/hooks/clock.jsx
+
+### Taller 3
+En este ejercicio de React JS deberéis crear una lista, esta lista tendrá dentro distintos contactos y deberá cumplir con las siguientes funcionalidades:
+
+* Mostrar contacto.
+* Crear contacto.
+* Eliminar contacto.
+* Cambiar el estado del contacto entre Conectado y Desconectado.
 
 ## Tecnologias
 Lista de tecnologias utilizadas dentro del proyecto:
