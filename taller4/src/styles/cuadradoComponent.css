@@ -1,0 +1,13 @@
+.cuadrado-container {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.cuadrado {
+    width: 255px;
+    height: 255px;
+    background-color: black;
+}
