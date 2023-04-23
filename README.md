@@ -56,6 +56,14 @@ Dentro del componente crearéis varios métodos de captura del ratón que harán
 * Un método para que cuando salga el ratón del componente se detenga por completo el cambio de color.
 * Por último, un método en el que cuando se pulsa dos veces en el componente, se tiene que detener el cambio de color.
 
+### Taller 5
+Partiendo del proyecto final (Proyecto realizado en el curso de React JS de OpenBootcamp), deberéis hacer un formulario con el que crear tareas. 
+
+Para hacer esto usaréis:
+
+* Formik para el formulario.
+* Yup para las validaciones.
+
 ## Tecnologias
 Lista de tecnologias utilizadas dentro del proyecto:
 * [Node](https://nodejs.org/en): Version 18.16.0 LTS
